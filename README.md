@@ -1,4 +1,4 @@
-# python-knowledge
+# Python knowledge
 ![](https://i.imgur.com/QgAJqKe.png)
 
 En este repositorio se adjuntan las habilidades técnicas que he venido desarrollando para la implementación del lenguaje python en la resolución de problemas prácticos en un entorno tecnológico.
