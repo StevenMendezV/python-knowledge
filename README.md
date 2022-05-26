@@ -50,4 +50,18 @@ Aquí se evidenciarian los siguientes aspectos:
 - **Contrucción de iteradores con el uso de las clases**
 - **Implementación de "generadores"**
 
+## POO en python <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/a658349e1e2b58efaac0644b7c139922.gif" width="125" height="35" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+- Manejo y reconocimiento de los 4 pilares de la POO en python:
+    - Abstracción
+    - Encapsulamiento 
+    - Herencia
+    - Polimorfismo 
+- Distinción entre el método constructor e inicializador.
+- Manejo e identificación de propiedades.
+- **Reconocimiento y distinción de los atributos de una clase sobre los atributos de instancia de una clase.**
+- Elaboración de proyectos simples implementando los conceptos de la programación orientada a objetos.
+- Reconocimiento y distinción del scope de la definición de una clase.
+- **Manejo de atributos, properties, getters y  setters bajo requerimientos de programa.**
+- Reconocimiento de python como un lenguaje que maneja la multiherencia.
+- Distinción de patrón MOR(Method Resolution Order).
 
